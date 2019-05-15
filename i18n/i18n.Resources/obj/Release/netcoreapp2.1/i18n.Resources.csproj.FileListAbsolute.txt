@@ -1,0 +1,17 @@
+C:\Users\balanjaneyulu.kantu\Desktop\Localization\i18n\i18n.Resources\bin\Release\netcoreapp2.1\i18n.Resources.deps.json
+C:\Users\balanjaneyulu.kantu\Desktop\Localization\i18n\i18n.Resources\bin\Release\netcoreapp2.1\i18n.Resources.dll
+C:\Users\balanjaneyulu.kantu\Desktop\Localization\i18n\i18n.Resources\bin\Release\netcoreapp2.1\i18n.Resources.pdb
+C:\Users\balanjaneyulu.kantu\Desktop\Localization\i18n\i18n.Resources\bin\Release\netcoreapp2.1\de-DE\i18n.Resources.resources.dll
+C:\Users\balanjaneyulu.kantu\Desktop\Localization\i18n\i18n.Resources\bin\Release\netcoreapp2.1\fr-FR\i18n.Resources.resources.dll
+C:\Users\balanjaneyulu.kantu\Desktop\Localization\i18n\i18n.Resources\obj\Release\netcoreapp2.1\i18n.Resources.csprojAssemblyReference.cache
+C:\Users\balanjaneyulu.kantu\Desktop\Localization\i18n\i18n.Resources\obj\Release\netcoreapp2.1\i18n.Resources.Employees.resources
+C:\Users\balanjaneyulu.kantu\Desktop\Localization\i18n\i18n.Resources\obj\Release\netcoreapp2.1\i18n.Resources.de_DE.Employees.de-DE.resources
+C:\Users\balanjaneyulu.kantu\Desktop\Localization\i18n\i18n.Resources\obj\Release\netcoreapp2.1\i18n.Resources.fr_FR.Employees.fr-FR.resources
+C:\Users\balanjaneyulu.kantu\Desktop\Localization\i18n\i18n.Resources\obj\Release\netcoreapp2.1\i18n.Resources.csproj.GenerateResource.cache
+C:\Users\balanjaneyulu.kantu\Desktop\Localization\i18n\i18n.Resources\obj\Release\netcoreapp2.1\i18n.Resources.csproj.CoreCompileInputs.cache
+C:\Users\balanjaneyulu.kantu\Desktop\Localization\i18n\i18n.Resources\obj\Release\netcoreapp2.1\i18n.Resources.AssemblyInfoInputs.cache
+C:\Users\balanjaneyulu.kantu\Desktop\Localization\i18n\i18n.Resources\obj\Release\netcoreapp2.1\i18n.Resources.AssemblyInfo.cs
+C:\Users\balanjaneyulu.kantu\Desktop\Localization\i18n\i18n.Resources\obj\Release\netcoreapp2.1\de-DE\i18n.Resources.resources.dll
+C:\Users\balanjaneyulu.kantu\Desktop\Localization\i18n\i18n.Resources\obj\Release\netcoreapp2.1\fr-FR\i18n.Resources.resources.dll
+C:\Users\balanjaneyulu.kantu\Desktop\Localization\i18n\i18n.Resources\obj\Release\netcoreapp2.1\i18n.Resources.dll
+C:\Users\balanjaneyulu.kantu\Desktop\Localization\i18n\i18n.Resources\obj\Release\netcoreapp2.1\i18n.Resources.pdb

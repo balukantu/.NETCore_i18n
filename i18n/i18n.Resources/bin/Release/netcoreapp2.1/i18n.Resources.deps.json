@@ -1,0 +1,31 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "i18n.Resources/1.0.0": {
+        "runtime": {
+          "i18n.Resources.dll": {}
+        },
+        "resources": {
+          "de-DE/i18n.Resources.resources.dll": {
+            "locale": "de-DE"
+          },
+          "fr-FR/i18n.Resources.resources.dll": {
+            "locale": "fr-FR"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "i18n.Resources/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
